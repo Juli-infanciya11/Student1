@@ -4,9 +4,4 @@ MY TO-DO LIST
 3.Study Books
 4.Attend classes on time
 5.Visit aunt
-6.Apply for remote jobs
-7.Practice Code
-8.Ready for college
-9.Complete internship tasks
-10.Solve chess puzzles
-11.Check the exam schedule
+
