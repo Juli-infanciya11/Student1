@@ -7,5 +7,6 @@ MY TO-DO LIST
 6.Apply for remote jobs
 7.Practice Code
 8.Ready for college
-9.Do leetcode
-10.Pack the bag
+9.Complete internship tasks
+10.Solve chess puzzles
+11.Check the exam schedule
